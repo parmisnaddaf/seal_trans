@@ -1,4 +1,4 @@
-name: seall
+name: seal
 channels:
   - pytorch
   - conda-forge
