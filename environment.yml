@@ -258,4 +258,4 @@ dependencies:
     - typing-inspect==0.8.0
     - urllib3==1.26.14
     - wandb==0.13.9
-prefix: /localhome/pnaddaf/anaconda3/envs/seall
+prefix: /localhome/pnaddaf/anaconda3/envs/seal
